@@ -5,4 +5,4 @@ This is a simple java application to find the Finger Prints and Facebook Keyhash
 
 You should set JAVA_HOME Environment variable or add Java Path to the PATH environment variable before using this application.
 
-[Download Executable](https://github.com/arunelectra/KeyHashGenerator/blob/master/KeyHashGenerator.exe)
+[Download Executable](https://github.com/arunelectra/KeyHashGenerator/blob/master/KeyHashGenerator.zip)
